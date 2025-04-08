@@ -1,1 +1,2 @@
 # Video-Motion-Transfer-Videos
+In single video sample prediction folder, there are two folders:reconstruction mode and transfer mode, and each of them contain some sample videos using both VRNN and GRU-NF that are kept in designated folders. The videos have 5 segments, the first one represents the source video, the second one represents the driving video, and the fourth one represents the predicted video (FOMM+keypoint prediction).
